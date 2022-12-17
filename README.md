@@ -8,7 +8,7 @@ Code to run a webserver accepting Post-rquests to control Neopixels on an esp828
 
 ## Table of Contents
 
-- [About this project](#About)
+- [About this project](#about-this-project)
 - [Install](#Installation)
 - [Dependencies](#Dependencies)
 - [Disclaimer](#Disclaimer)
